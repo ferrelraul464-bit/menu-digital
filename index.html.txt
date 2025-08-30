@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Sandwich de Lomo",
+        "descripcion": "Lomo, lechuga, tomate, mayonesa",
+        "precio": 1200,
+        "imagen": "https://via.placeholder.com/60"
+    },
+    {
+        "nombre": "Milanesa",
+        "descripcion": "Milanesa de carne, queso, tomate, lechuga",
+        "precio": 1100,
+        "imagen": "https://via.placeholder.com/60"
+    },
+    {
+        "nombre": "Hamburguesa",
+        "descripcion": "Carne, queso cheddar, lechuga, tomate",
+        "precio": 950,
+        "imagen": "https://via.placeholder.com/60"
+    }
+]
